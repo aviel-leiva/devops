@@ -4,4 +4,4 @@
 testing CI workflow 
 
 
-![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/aviel-leiva/<RepositoryName>/actions/workflows/main.yml/badge.svg)
